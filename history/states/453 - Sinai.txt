@@ -7,9 +7,7 @@ state = {
 
 	history = {
 		owner = ENG
-
 		add_core_of = EGY
-
 		set_demilitarized_zone = no
 
 		add_to_array = { state_victory_points = 4161 }
