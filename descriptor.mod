@@ -4,7 +4,9 @@ tags={
 }
 name="Agadirious"
 replace_path="history/states"
+replace_path="history/countries"
 replace_path="common/scripted_effects"
 replace_path="map"
-path="mod/agadirious-main"
-supported_version="1.17.*"
+replace_path="map/strategicregions"
+path="mod/agadirious"
+supported_version="1.19.*"
